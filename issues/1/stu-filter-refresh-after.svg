@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="398" viewBox="0 0 800 398">
+<rect width="100%" height="100%" fill="#0f172a"/>
+<rect x="20" y="20" width="760" height="358" rx="16" fill="#111827" stroke="#334155"/>
+<text x="36" y="42" fill="#94a3b8" font-family="monospace" font-size="16" xml:space="preserve">After refresh: filter lost</text>
+<rect x="64" y="149" width="672" height="24" rx="4" fill="#06b6d4" opacity="0.95"/>
+<text x="40" y="70" fill="#e5e7eb" font-family="monospace" font-size="18" xml:space="preserve">┌──────────────────────────────────────────────────────────┐</text>
+<text x="40" y="94" fill="#e5e7eb" font-family="monospace" font-size="18" xml:space="preserve">│ test-bucket                                              │</text>
+<text x="40" y="118" fill="#e5e7eb" font-family="monospace" font-size="18" xml:space="preserve">└──────────────────────────────────────────────────────────┘</text>
+<text x="40" y="142" fill="#e5e7eb" font-family="monospace" font-size="18" xml:space="preserve">┌─────────────────────────────────────────────────── 1 / 4 ┐</text>
+<text x="40" y="166" fill="#0b1020" font-family="monospace" font-size="18" xml:space="preserve">│  foo.txt              2024-01-02 13:01:02         1 KiB  │</text>
+<text x="40" y="190" fill="#e5e7eb" font-family="monospace" font-size="18" xml:space="preserve">│  bar.txt              2024-01-02 13:01:02         1 KiB  │</text>
+<text x="40" y="214" fill="#e5e7eb" font-family="monospace" font-size="18" xml:space="preserve">│  baz.txt              2024-01-02 13:01:02         1 KiB  │</text>
+<text x="40" y="238" fill="#e5e7eb" font-family="monospace" font-size="18" xml:space="preserve">│  qux.txt              2024-01-02 13:01:02         1 KiB  │</text>
+<text x="40" y="262" fill="#e5e7eb" font-family="monospace" font-size="18" xml:space="preserve">│                                                          │</text>
+<text x="40" y="286" fill="#e5e7eb" font-family="monospace" font-size="18" xml:space="preserve">│                                                          │</text>
+<text x="40" y="310" fill="#e5e7eb" font-family="monospace" font-size="18" xml:space="preserve">│                                                          │</text>
+<text x="40" y="334" fill="#e5e7eb" font-family="monospace" font-size="18" xml:space="preserve">└──────────────────────────────────────────────────────────┘</text>
+</svg>
