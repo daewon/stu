@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1352" height="428" viewBox="0 0 1352 428">
+  <rect width="100%" height="100%" fill="#0f172a"/>
+  <text x="20" y="36" fill="#e5e7eb" font-family="monospace" font-size="28" font-weight="700">STU filter + refresh reproduction</text>
+  <text x="20" y="58" fill="#94a3b8" font-family="monospace" font-size="16">Rendered from ratatui TestBackend output after applying filter "ba" and then simulating refresh completion.</text>
+  <rect x="20" y="64" width="636" height="324" rx="16" fill="#111827" stroke="#334155"/>
+<text x="36" y="54" fill="#94a3b8" font-family="monospace" font-size="18">Before refresh: filter remains applied</text>
+<rect x="58" y="161" width="560" height="24" rx="4" fill="#06b6d4" opacity="0.95"/>
+<text x="38" y="82" fill="#e5e7eb" font-family="monospace" font-size="20" xml:space="preserve">┌──────────────────────────────────────────────────────────┐</text>
+<text x="38" y="106" fill="#e5e7eb" font-family="monospace" font-size="20" xml:space="preserve">│ test-bucket                                              │</text>
+<text x="38" y="130" fill="#e5e7eb" font-family="monospace" font-size="20" xml:space="preserve">└──────────────────────────────────────────────────────────┘</text>
+<text x="38" y="154" fill="#e5e7eb" font-family="monospace" font-size="20" xml:space="preserve">┌─────────────────────────────────────────────────── 1 / 2 ┐</text>
+<text x="38" y="178" fill="#0b1020" font-family="monospace" font-size="20" xml:space="preserve"><tspan>│  </tspan><tspan fill="#f87171">ba</tspan><tspan fill="#0b1020">r.txt              2024-01-02 13:01:02         1 KiB  │</tspan></text>
+<text x="38" y="202" fill="#e5e7eb" font-family="monospace" font-size="20" xml:space="preserve"><tspan>│  </tspan><tspan fill="#f87171">ba</tspan><tspan fill="#e5e7eb">z.txt              2024-01-02 13:01:02         1 KiB  │</tspan></text>
+<text x="38" y="226" fill="#e5e7eb" font-family="monospace" font-size="20" xml:space="preserve">│                                                          │</text>
+<text x="38" y="250" fill="#e5e7eb" font-family="monospace" font-size="20" xml:space="preserve">│                                                          │</text>
+<text x="38" y="274" fill="#e5e7eb" font-family="monospace" font-size="20" xml:space="preserve">│                                                          │</text>
+<text x="38" y="298" fill="#e5e7eb" font-family="monospace" font-size="20" xml:space="preserve">│                                                          │</text>
+<text x="38" y="322" fill="#e5e7eb" font-family="monospace" font-size="20" xml:space="preserve">│                                                          │</text>
+<text x="38" y="346" fill="#e5e7eb" font-family="monospace" font-size="20" xml:space="preserve">└──────────────────────────────────────────────────────────┘</text>
+  <rect x="696" y="64" width="636" height="324" rx="16" fill="#111827" stroke="#334155"/>
+<text x="712" y="54" fill="#94a3b8" font-family="monospace" font-size="18">After refresh: filter state is lost</text>
+<rect x="734" y="161" width="560" height="24" rx="4" fill="#06b6d4" opacity="0.95"/>
+<text x="714" y="82" fill="#e5e7eb" font-family="monospace" font-size="20" xml:space="preserve">┌──────────────────────────────────────────────────────────┐</text>
+<text x="714" y="106" fill="#e5e7eb" font-family="monospace" font-size="20" xml:space="preserve">│ test-bucket                                              │</text>
+<text x="714" y="130" fill="#e5e7eb" font-family="monospace" font-size="20" xml:space="preserve">└──────────────────────────────────────────────────────────┘</text>
+<text x="714" y="154" fill="#e5e7eb" font-family="monospace" font-size="20" xml:space="preserve">┌─────────────────────────────────────────────────── 1 / 4 ┐</text>
+<text x="714" y="178" fill="#0b1020" font-family="monospace" font-size="20" xml:space="preserve">│  foo.txt              2024-01-02 13:01:02         1 KiB  │</text>
+<text x="714" y="202" fill="#e5e7eb" font-family="monospace" font-size="20" xml:space="preserve">│  bar.txt              2024-01-02 13:01:02         1 KiB  │</text>
+<text x="714" y="226" fill="#e5e7eb" font-family="monospace" font-size="20" xml:space="preserve">│  baz.txt              2024-01-02 13:01:02         1 KiB  │</text>
+<text x="714" y="250" fill="#e5e7eb" font-family="monospace" font-size="20" xml:space="preserve">│  qux.txt              2024-01-02 13:01:02         1 KiB  │</text>
+<text x="714" y="274" fill="#e5e7eb" font-family="monospace" font-size="20" xml:space="preserve">│                                                          │</text>
+<text x="714" y="298" fill="#e5e7eb" font-family="monospace" font-size="20" xml:space="preserve">│                                                          │</text>
+<text x="714" y="322" fill="#e5e7eb" font-family="monospace" font-size="20" xml:space="preserve">│                                                          │</text>
+<text x="714" y="346" fill="#e5e7eb" font-family="monospace" font-size="20" xml:space="preserve">└──────────────────────────────────────────────────────────┘</text>
+</svg>
